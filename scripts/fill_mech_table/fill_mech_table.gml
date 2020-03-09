@@ -1,0 +1,33 @@
+var table = [];
+
+table [0,0] =	"Raycasting Collision";
+table [1,0] =	"Simon Says";
+table [2,0] =	"Rock//Paper//Scissors Combat";
+table [3,0] =	"Stat Check";
+table [4,0] =	"Action Queue";
+table [5,0] =	"Player Enabled Additional Rules";
+table [6,0] =	"Tech Tree";
+table [7,0] =	"Narrative Choices";
+table [8,0] =	"Critical Hit";
+table [9,0] =	"Critical Failure";
+table [10,0] =	"Co-Op Mode";
+table [11,0] =	"Waggle Motion Controls";
+table [12,0] =	"Minimap";
+table [13,0] =	"Haptic Input";
+table [14,0] =	"Haptic Feedback";
+table [15,0] =	"Player Judging";
+table [16,0] =	"Player Voting";
+table [17,0] =	"Tie-Breakers";
+table [18,0] =	"Racing";
+table [19,0] =	"Player Elimination";
+table [20,0] =	"Memory Test";
+table [21,0] =	"Roll and Move";
+table [22,0] =	"Drift";
+table [23,0] =	"Impuse Movement";
+table [24,0] =	"Mancala";
+table [25,0] =	"Map Reduction";
+table [26,0] =	"Perfect Information Puzzles";
+table [27,0] =	"Imperfect Information Puzzles";
+table [28,0] =	"Jump Scares";
+
+return table;

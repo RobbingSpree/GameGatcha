@@ -1,0 +1,29 @@
+Raycasting Collision
+Simon Says
+Rock//Paper//Scissors Combat
+Stat Check
+Action Queue
+Player Enabled Additional Rules
+Tech Tree
+Narrative Choices
+Critical Hit
+Critical Failure
+Co-Op Mode
+Waggle Motion Controls
+Minimap
+Haptic Input
+Haptic Feedback
+Player Judging
+Player Voting
+Tie-Breakers
+Racing
+Player Elimination
+Memory Test
+Roll and Move
+Drift
+Impuse Movement
+Mancala
+Map Reduction
+Perfect Information Puzzles
+Imperfect Information Puzzles
+Jump Scares
