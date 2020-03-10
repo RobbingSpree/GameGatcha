@@ -13,6 +13,10 @@ enum item
 	misc
 }
 
+unit=64;
+width=5;
+height=5;
+
 bucket=[];
 //column 0 what the bucket is for 
 bucket[0,0]=item.dev;
