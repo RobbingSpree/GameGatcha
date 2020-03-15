@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0b3ccc85-51df-4dbb-b76d-b2bd00784896",
+            "Value": {
+                "id": "b522f0a3-85bd-4170-85f5-5eedf73a2da8",
+                "resourcePath": "sprites\\spr_board\\spr_board.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0c1f6584-0aba-4e11-b295-9d97da125c7c",
             "Value": {
                 "id": "3fbf32fc-b91e-4455-8a96-16b5a1aa0098",
@@ -172,6 +180,14 @@
                 "id": "c52e79d3-f55f-4c70-9dbd-eef6a8fedd7d",
                 "resourcePath": "notes\\import.yy",
                 "resourceType": "GMNotes"
+            }
+        },
+        {
+            "Key": "4339885c-802b-438b-9271-df77bb730cf5",
+            "Value": {
+                "id": "4a15e380-2ba5-41d4-829c-2febf64d55b1",
+                "resourcePath": "sprites\\spr_table\\spr_table.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -491,6 +507,14 @@
             "Value": {
                 "id": "05b6db37-6db9-44d4-b7fa-da8553ca6136",
                 "resourcePath": "sprites\\layout_button_spr\\layout_button_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d155a04c-5318-48ff-b6bc-114591dd2f2d",
+            "Value": {
+                "id": "248859a2-eb68-4b9d-95ad-f301c35ec9bb",
+                "resourcePath": "sprites\\blueprint_spr\\blueprint_spr.yy",
                 "resourceType": "GMSprite"
             }
         },

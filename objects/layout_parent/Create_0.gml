@@ -13,11 +13,31 @@ enum item
 	misc
 }
 
+enum room_parts
+{
+	empty,
+	desk,
+	board,
+	misc
+}
+
 unit=64;
 width=5;
 height=5;
+dev_spots = 2;
+board_spots = 2;
+index = invintory.layout_focus;
+
+room_ = [];
+px=x; //position on screen as refrenced by other objects
+py=y;
+dx=px; //destination on screen as refrenced by itself and other objects so smooth movement can be acheived
+dy=py;
+
+first_frame = true; //run a second lot of create events after having another object create this one
 
 bucket=[];
+/*
 //column 0 what the bucket is for 
 bucket[0,0]=item.dev;
 //column 1 bucket is filled

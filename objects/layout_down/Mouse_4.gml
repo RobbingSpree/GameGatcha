@@ -1,3 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-invintory.layout_focus +=1;
+if invintory.layout_focus > 0
+	invintory.layout_focus -=1;
