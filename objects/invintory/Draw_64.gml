@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-//debug
-draw_text(x+20,y,layout_focus);
+draw_text(10,50,mouse_x);
+draw_text(10,70,mouse_y);

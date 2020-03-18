@@ -17,3 +17,4 @@ for (var i=0; i<width; i++)
 	}
 }
 
+draw_text(x-100,y,index);
